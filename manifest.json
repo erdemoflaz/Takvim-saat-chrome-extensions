@@ -1,0 +1,19 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "index.html"
+   },
+  "manifest_version": 2,
+
+  "name": "Takvim / Saat | Erdem OFLAZ",
+  "description": "anlık olarak takcim saati gösterir",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "images/icon16.png",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
