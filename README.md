@@ -13,6 +13,6 @@ Kesinlikle ücretsizdir
 
 ## Ekran Fotoğrafı
 
-[alt text](https://s13.postimg.org/f84kdnydz/takvimsaathavadurumu.png)
+[resim1](https://s13.postimg.org/f84kdnydz/takvimsaathavadurumu.png)
 
 coding @erdemoflaz
