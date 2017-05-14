@@ -4,8 +4,8 @@
    },
   "manifest_version": 2,
 
-  "name": "Takvim / Saat | Erdem OFLAZ",
-  "description": "anlık olarak takcim saati gösterir",
+  "name": "Takvim / Saat / Hava Durumu",
+  "description": "Anlık olarak takvim saat ve hava durumunu gösterir",
   "version": "1.0",
 
   "browser_action": {
